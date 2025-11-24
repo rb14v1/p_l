@@ -6,7 +6,7 @@ import PromptCard from "../components/PromptCardDash";
 import Footer from "../components/Footer";
 import HistoryModal from "../components/HistoryModal.jsx";
 
-const API_BASE = "http://127.0.0.1:8000/api";
+const API_BASE = "http://50.17.86.95/api";
 
 export default function Dashboard() {
   const { isAdmin, isLoggedIn } = useAuth();

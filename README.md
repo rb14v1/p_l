@@ -166,7 +166,7 @@ Before you begin, ensure you have the following installed:
     python manage.py runserver
     ```
 
-The backend API will now be running at 'http://127.0.0.1:8000'.
+The backend API will now be running at 'http://50.17.86.95/api'.
 
 ### Frontend Setup (React)
 
